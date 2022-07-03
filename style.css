@@ -1,0 +1,159 @@
+body{
+font-family: Bookman Old Style;sans-serif;
+}
+nav{
+    width:100%;
+    height:120px;
+    background:#434B4D;
+}
+.logo{
+    color:#fff;
+    font-size: 50px;
+    line-height: 80px;
+    padding-left:388px;
+    float:left;
+}
+.menu{
+    float:left;
+    padding-left:432px;
+    
+}
+.menu li{
+    float:left;
+    line-height: 60px;
+    color:azure;
+    margin-right:40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    width: 100%;
+    height: 900px;
+    background:url(../img/boy.png) 90% 100%/auto 85%  no-repeat,url(../img/fon3.jpg) center/cover ;
+}
+.tittle__container {
+    float: left;
+   margin: 432px 0px 0px 700px;
+    color #2c384a;
+    text-align: center;
+    
+}
+.tittle__container h1{
+  font - size: 60px; 
+    font-weight:bold;
+}
+.tittle__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+}
+
+.tittle__container2 input {
+    height: 40px;    
+    text-align: center;
+    border: 2px solid #6d7682;
+    background:none;
+    border-radius:5px;
+    color:6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 28px 0px 14px;
+}
+.text {
+     float:left;
+    margin-left: 300px;
+    margin-right: 300px;    
+}
+
+
+.main3{
+    
+    width: 100%;
+    height: 600px;
+    background:url(../img/fon4.jpg);
+}
+.menu3 li {
+    margin-top: 70px;
+    padding-left:160px;
+ float:left;
+    margin-right:100px;
+    text-align: center;
+  
+}
+.menu3 h3{
+    color: orange;
+}
+.main4{
+    margin-top: 500px;
+    width: 100%;
+    height: 1000px;
+}
+.text_keis{
+   padding-left:500px;
+    float:left;
+     margin-right:100px;
+}
+.main input {
+    height: 40px;    
+    text-align: left;
+    border: 2px solid #6d7682;
+    background:none;
+    border-radius:5px;
+    color:6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 28px 0px 14px;
+}
+.text2 {
+     float:left;
+    color: orange;
+}
+.list{
+	list-style-type: none;
+}
+raschet input {
+    height: 40px;    
+    text-align: left;
+    border: 2px solid #6d7682;
+    background:none;
+    border-radius:5px;
+    color:6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 28px 0px 14px;
+}
+.raschet {
+    margin-top: 100px; 
+}
+.raschet2 {
+    padding-left:500px;
+}
+.main5{
+    width: 100%;
+    height: 1000px;
+}
+.menu5 li {
+    margin-top: 70px;
+    padding-left:200px;
+ float:left;
+    margin-right:100px;
+    text-align: center;
+  
+}
+.main5{
+    
+    width: 100%;
+    height: 600px;
+    background:url(../img/%D1%84%D0%BE%D0%BD.png)no-repeat;
+    -webkit-background-size: 100%;
+-o-background-size: 100%;
+-moz-background-size: 100%;
+-ms-background-size: 100%;
+-khtml-background-size: 100%;
+background-size: 100%;
+}
+.main14{
+    
+    width: 100%;
+    height: 600px;
+}
